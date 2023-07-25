@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'webPHPnabil'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90F7E1BCE19749B0A67E8B732A1B889D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8E5A61395DC4A35B96DC3CEFEC6D9EC }}
           package: .
